@@ -59,7 +59,7 @@
       "name": "Footer Widget",
       "position": {
         "x": 0,
-        "y": 1034
+        "y": 1002
       },
       "size": {
         "width": 800,
@@ -78,8 +78,8 @@
       "widgetId": "premium-ascii-insights",
       "name": "Premium-ascii-insights Widget",
       "position": {
-        "x": 2,
-        "y": 682
+        "x": 8,
+        "y": 666
       },
       "size": {
         "width": 412,
@@ -141,41 +141,25 @@
           "css",
           "js",
           "py",
-          "sass",
           "ts",
           "bash",
           "docker",
           "nextjs",
-          "rails"
+          "rails",
+          "c",
+          "tailwind",
+          "vscode"
         ],
         "theme": "dark",
         "lockAspectRatio": false,
         "perLine": 5,
-        "textColor": "github-auto"
+        "textColor": "github-auto",
+        "animationType": "none",
+        "animationPreviewKey": 2
       },
       "locked": false,
       "visible": true,
       "zIndex": 9
-    },
-    {
-      "instanceId": "widget_667d12f9-562a-479d-a63f-8edb250d8ce0",
-      "widgetId": "stats",
-      "name": "Stats Widget",
-      "position": {
-        "x": 432,
-        "y": 658
-      },
-      "size": {
-        "width": 356,
-        "height": 376
-      },
-      "config": {
-        "accentColor": "#ff4a4a",
-        "statsLayout": "vertical"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 10
     },
     {
       "instanceId": "widget_e7dd807d-d253-4ca4-8086-91c520cf12fb",
@@ -215,7 +199,7 @@
   "templateId": "native_advanced",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794362560564_1mavb",
-    "updatedAt": "2026-11-11T02:02:44.515Z"
+    "revision": "rev_1794362821901_i2o7s",
+    "updatedAt": "2026-11-11T02:07:04.752Z"
   }
 }
