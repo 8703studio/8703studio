@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emilie</h1>
-<h3 align="center">A passionate graphic designer and wannabe front-end developper from France</h3>
-
-- ⚡ Fun fact **i'm intesrested in music, graphic design, art, football, comics & manga**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/8703studio/8703studio/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/8703studio/8703studio/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/8703studio/8703studio/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
