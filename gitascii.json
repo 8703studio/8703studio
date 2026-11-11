@@ -1,0 +1,254 @@
+{
+  "widgets": [
+    {
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "accentColor": "#ff4a4a"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1794359281110_0"
+    },
+    {
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 296,
+        "y": 106
+      },
+      "size": {
+        "width": 504,
+        "height": 280
+      },
+      "config": {
+        "showContactSection": true,
+        "showFollowing": false,
+        "showJoined": false,
+        "showStatus": false,
+        "showTimezone": false,
+        "showPronouns": false,
+        "showAchievements": true,
+        "showHighlights": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1794359281110_1"
+    },
+    {
+      "widgetId": "avatar",
+      "name": "Avatar Widget",
+      "position": {
+        "x": 8,
+        "y": 106
+      },
+      "size": {
+        "width": 280,
+        "height": 280
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "showTitle": false,
+        "hideDecorations": true,
+        "hideBorder": true,
+        "accentColor": "transparent"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1794359281110_3"
+    },
+    {
+      "widgetId": "footer",
+      "name": "Footer Widget",
+      "position": {
+        "x": 0,
+        "y": 1554
+      },
+      "size": {
+        "width": 800,
+        "height": 50
+      },
+      "config": {
+        "accentColor": "#ff4a4a"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1794359281110_4"
+    },
+    {
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 384,
+        "y": 434
+      },
+      "size": {
+        "width": 416,
+        "height": 202
+      },
+      "config": {
+        "hideDecorations": true,
+        "hideBorder": true,
+        "hideLangsArr": [],
+        "hideLangs": "",
+        "accentColor": "#ff4a4a",
+        "langsLayout": "list"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1794359281110_6"
+    },
+    {
+      "instanceId": "widget_c671c4cc-5e29-4e22-8599-fb081d40a03e",
+      "widgetId": "premium-ascii-insights",
+      "name": "Premium-ascii-insights Widget",
+      "position": {
+        "x": 376,
+        "y": 850
+      },
+      "size": {
+        "width": 400,
+        "height": 400
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#ffb454",
+        "secondaryColor": "#ff5555",
+        "borderColor": "#3e2815"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_3a3a536a-17dc-40ee-a7c1-090f0a6878a1",
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 40,
+        "y": 434
+      },
+      "size": {
+        "width": 320,
+        "height": 784
+      },
+      "config": {
+        "showTitle": false,
+        "customBio": "\nA passionate graphic designer and wannabe front-end developer from France\n>>>>>>>>>\n\n🔭 Currently working on — Common core project @42MARSEILLE\n🌱 Currently learning — Python - C - IA\n👯 Looking to collaborate on — \n💬 Ask me about — Design and art \n⚡ Fun fact — i am interested in music, graphic design, art, football, comics & manga\n>>>>>>>>>\nCURRENT PROJECTS \n\n-\n- \n-",
+        "hideDecorations": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_d3319a67-240f-4574-9935-140b1ebcb74b",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 384,
+        "y": 616
+      },
+      "size": {
+        "width": 376,
+        "height": 312
+      },
+      "config": {
+        "selectedTechs": [
+          "html",
+          "ruby",
+          "css",
+          "js",
+          "py",
+          "sass",
+          "ts",
+          "bash",
+          "docker",
+          "nextjs",
+          "rails"
+        ],
+        "theme": "light",
+        "lockAspectRatio": false,
+        "perLine": 5
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_667d12f9-562a-479d-a63f-8edb250d8ce0",
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 0,
+        "y": 1250
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "accentColor": "#ff4a4a"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_e732bad0-e094-462e-a7b8-d133a3ccbe6c",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 1402
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "twitter",
+          "discord",
+          "youtube",
+          "website"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/8703studio"
+        }
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native_advanced"
+  },
+  "templateId": "native_advanced"
+}
