@@ -28,8 +28,8 @@
         "y": 122
       },
       "size": {
-        "width": 456,
-        "height": 280
+        "width": 800,
+        "height": 224
       },
       "config": {
         "showContactSection": true,
@@ -45,7 +45,9 @@
         "dotColor": "#ffb800",
         "valueColor": "#bd93f9",
         "statsValColor": "#05ffa1",
-        "dividerColor": "#3d1e6d"
+        "dividerColor": "#3d1e6d",
+        "showLanguages": false,
+        "showEmail": true
       },
       "locked": false,
       "visible": true,
@@ -57,7 +59,7 @@
       "name": "Footer Widget",
       "position": {
         "x": 0,
-        "y": 1408
+        "y": 1034
       },
       "size": {
         "width": 800,
@@ -72,39 +74,15 @@
       "instanceId": "widget_1794359281110_4"
     },
     {
-      "widgetId": "languages",
-      "name": "Languages Widget",
-      "position": {
-        "x": 0,
-        "y": 378
-      },
-      "size": {
-        "width": 464,
-        "height": 202
-      },
-      "config": {
-        "hideDecorations": true,
-        "hideBorder": true,
-        "hideLangsArr": [],
-        "hideLangs": "",
-        "accentColor": "#ff4a4a",
-        "langsLayout": "list"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1794359281110_6"
-    },
-    {
       "instanceId": "widget_c671c4cc-5e29-4e22-8599-fb081d40a03e",
       "widgetId": "premium-ascii-insights",
       "name": "Premium-ascii-insights Widget",
       "position": {
-        "x": 0,
-        "y": 930
+        "x": 2,
+        "y": 682
       },
       "size": {
-        "width": 800,
+        "width": 412,
         "height": 320
       },
       "config": {
@@ -113,7 +91,10 @@
         "backgroundColor": "transparent",
         "accentColor": "#ffb454",
         "secondaryColor": "#ff5555",
-        "borderColor": "#3e2815"
+        "borderColor": "#3e2815",
+        "showKeyInsights": true,
+        "showPeakCadence": true,
+        "showTemporalProductivity": true
       },
       "locked": false,
       "visible": true,
@@ -124,17 +105,18 @@
       "widgetId": "bio",
       "name": "Bio Widget",
       "position": {
-        "x": 464,
-        "y": 122
+        "x": 480,
+        "y": 434
       },
       "size": {
         "width": 320,
-        "height": 784
+        "height": 328
       },
       "config": {
         "showTitle": false,
-        "customBio": "\nA passionate graphic designer and wannabe front-end developer from France\n>>>>>>>>>\n\n🔭 Currently working on — Common core project @42MARSEILLE\n🌱 Currently learning — Python - C - IA\n👯 Looking to collaborate on — \n💬 Ask me about — Design and art \n⚡ Fun fact — i am interested in music, graphic design, art, football, comics & manga\n>>>>>>>>>\nCURRENT PROJECTS \n\n-\n- \n-",
-        "hideDecorations": false
+        "customBio": "\nA passionate graphic designer and wannabe front-end developer from France\n@42MARSEILLE",
+        "hideDecorations": false,
+        "textAlign": "left"
       },
       "locked": false,
       "visible": true,
@@ -146,7 +128,7 @@
       "name": "Tech-stack Widget",
       "position": {
         "x": 0,
-        "y": 604
+        "y": 370
       },
       "size": {
         "width": 412,
@@ -168,7 +150,8 @@
         ],
         "theme": "dark",
         "lockAspectRatio": false,
-        "perLine": 5
+        "perLine": 5,
+        "textColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -179,19 +162,43 @@
       "widgetId": "stats",
       "name": "Stats Widget",
       "position": {
-        "x": 0,
-        "y": 1256
+        "x": 432,
+        "y": 658
       },
       "size": {
-        "width": 800,
-        "height": 120
+        "width": 356,
+        "height": 376
       },
       "config": {
-        "accentColor": "#ff4a4a"
+        "accentColor": "#ff4a4a",
+        "statsLayout": "vertical"
       },
       "locked": false,
       "visible": true,
       "zIndex": 10
+    },
+    {
+      "instanceId": "widget_e7dd807d-d253-4ca4-8086-91c520cf12fb",
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 428,
+        "y": 374
+      },
+      "size": {
+        "width": 360,
+        "height": 388
+      },
+      "config": {
+        "showTitle": false,
+        "customBio": "A passionate graphic designer and wannabe front-end developer @42MARSEILLE from France\n\n\n🌱 Currently learning — Python - C - IA\n💬 Ask me about — Design and art \n⚡ Fun fact — i am interested in music, graphic design, art, football, comics & manga\n",
+        "customLocation": "",
+        "hideBorder": false,
+        "hideDecorations": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
     }
   ],
   "globalStyles": {
@@ -208,7 +215,7 @@
   "templateId": "native_advanced",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794361463751_au4p6",
-    "updatedAt": "2026-11-11T01:44:25.956Z"
+    "revision": "rev_1794362560564_1mavb",
+    "updatedAt": "2026-11-11T02:02:44.515Z"
   }
 }
