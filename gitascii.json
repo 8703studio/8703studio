@@ -1,4 +1,5 @@
 {
+  "username": "8703studio",
   "widgets": [
     {
       "widgetId": "header",
@@ -38,7 +39,13 @@
         "showTimezone": false,
         "showPronouns": false,
         "showAchievements": true,
-        "showHighlights": true
+        "showHighlights": true,
+        "headerColor": "#ff71ce",
+        "labelColor": "#01cdfe",
+        "dotColor": "#6b3ba7",
+        "valueColor": "#fffb96",
+        "statsValColor": "#05ffa1",
+        "dividerColor": "#3d1e6d"
       },
       "locked": false,
       "visible": true,
@@ -250,5 +257,10 @@
     "themeMode": "dark",
     "templateStyle": "native_advanced"
   },
-  "templateId": "native_advanced"
+  "templateId": "native_advanced",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1794361083616_8sugi",
+    "updatedAt": "2026-11-11T01:38:06.130Z"
+  }
 }
