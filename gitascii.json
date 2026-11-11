@@ -80,7 +80,7 @@
       "name": "Footer Widget",
       "position": {
         "x": 0,
-        "y": 1554
+        "y": 1408
       },
       "size": {
         "width": 800,
@@ -215,35 +215,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 10
-    },
-    {
-      "instanceId": "widget_e732bad0-e094-462e-a7b8-d133a3ccbe6c",
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
-      "position": {
-        "x": 0,
-        "y": 1402
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {
-        "selectedSocials": [
-          "github",
-          "linkedin",
-          "twitter",
-          "discord",
-          "youtube",
-          "website"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/8703studio"
-        }
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 10
     }
   ],
   "globalStyles": {
@@ -260,7 +231,7 @@
   "templateId": "native_advanced",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794361083616_8sugi",
-    "updatedAt": "2026-11-11T01:38:06.130Z"
+    "revision": "rev_1794361176781_v9bpj",
+    "updatedAt": "2026-11-11T01:39:39.001Z"
   }
 }
