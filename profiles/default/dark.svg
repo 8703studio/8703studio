@@ -54,14 +54,14 @@
       <rect class="" x="0" y="0" width="800" height="224" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
       
       <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d1e6d">─</tspan><tspan fill="#ff4a4a"> 8703studio@github </tspan><tspan fill="#3d1e6d">────────────────────────────────────────────────────────────────────────</tspan></text>
-<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#c5ff4a">. Uptime: </tspan><tspan fill="#ffb800">.................................................................</tspan><tspan fill="#bd93f9"> 6 years, 1 month</tspan></text>
+<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#c5ff4a">. Uptime: </tspan><tspan fill="#ffb800">.........................................................</tspan><tspan fill="#bd93f9"> 6 years, 1 month, 2 days</tspan></text>
 <text x="12" y="56" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#c5ff4a">. Location: </tspan><tspan fill="#ffb800">.............................................................................</tspan><tspan fill="#bd93f9"> FR</tspan></text>
 <text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#c5ff4a">. Company: </tspan><tspan fill="#ffb800">.....................................................................</tspan><tspan fill="#bd93f9"> 8703 STUDIO</tspan></text>
 <text x="12" y="100" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d1e6d">─</tspan><tspan fill="#ff4a4a"> Contact </tspan><tspan fill="#3d1e6d">──────────────────────────────────────────────────────────────────────────────────</tspan></text>
 <text x="12" y="118" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#c5ff4a">. GitHub: </tspan><tspan fill="#ffb800">............................................................</tspan><tspan fill="#bd93f9"> github.com/8703studio</tspan></text>
 <text x="12" y="144" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d1e6d">─</tspan><tspan fill="#ff4a4a"> GitHub Stats </tspan><tspan fill="#3d1e6d">─────────────────────────────────────────────────────────────────────────────</tspan></text>
 <text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#c5ff4a">. Repos: </tspan><tspan fill="#ffb800">................................</tspan><tspan fill="#05ffa1"> 18</tspan><tspan fill="#3d1e6d"> | </tspan><tspan fill="#c5ff4a">. Stars: </tspan><tspan fill="#ffb800">.................................</tspan><tspan fill="#05ffa1"> 3</tspan></text>
-<text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#c5ff4a">. Commits: </tspan><tspan fill="#ffb800">..............................</tspan><tspan fill="#05ffa1"> 95</tspan><tspan fill="#3d1e6d"> | </tspan><tspan fill="#c5ff4a">. Followers: </tspan><tspan fill="#ffb800">............................</tspan><tspan fill="#05ffa1"> 19</tspan></text>
+<text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#c5ff4a">. Commits: </tspan><tspan fill="#ffb800">..............................</tspan><tspan fill="#05ffa1"> 99</tspan><tspan fill="#3d1e6d"> | </tspan><tspan fill="#c5ff4a">. Followers: </tspan><tspan fill="#ffb800">............................</tspan><tspan fill="#05ffa1"> 19</tspan></text>
   
     </g>
   
@@ -154,7 +154,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">0%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">0%</tspan>                <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">0%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">0%</tspan>                <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-1">
@@ -172,7 +172,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">1%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">2%</tspan>                <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">2%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">1%</tspan>                <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-2">
@@ -190,7 +190,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">3%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">5%</tspan>                <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">4%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">2%</tspan>                <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-3">
@@ -208,7 +208,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">4%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">7%</tspan>                <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">6%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">3%</tspan>                <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-4">
@@ -226,7 +226,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">5%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">9%</tspan>                <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">8%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">4%</tspan>                <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-5">
@@ -244,7 +244,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">7%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">12%</tspan>               <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">10%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">5%</tspan>               <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-6">
@@ -262,7 +262,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">8%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">14%</tspan>               <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">12%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">6%</tspan>               <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-7">
@@ -280,7 +280,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">9%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">16%</tspan>               <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">14%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">7%</tspan>               <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-8">
@@ -298,7 +298,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">11%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">19%</tspan>              <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">16%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">8%</tspan>               <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-9">
@@ -316,7 +316,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">12%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">21%</tspan>              <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">18%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">9%</tspan>               <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-10">
@@ -334,7 +334,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">13%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">23%</tspan>              <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">20%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">10%</tspan>              <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-11">
@@ -352,7 +352,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">15%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">26%</tspan>              <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">22%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">11%</tspan>              <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-12">
@@ -370,7 +370,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">16%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">28%</tspan>              <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">24%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">12%</tspan>              <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-13">
@@ -388,7 +388,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">17%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">30%</tspan>              <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">26%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">13%</tspan>              <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-14">
@@ -406,7 +406,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">19%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">33%</tspan>              <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">28%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">14%</tspan>              <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-15">
@@ -424,7 +424,7 @@
     <text x="20" y="211"><tspan fill="#3e2815">│</tspan>  <tspan fill="#ff5555" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="228"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#ffb454">20%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#ffb454">35%</tspan>              <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="245"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#ffb454">30%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#ffb454">15%</tspan>              <tspan fill="#3e2815">│</tspan></text>
-    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">January</tspan>      <tspan fill="#3e2815">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#3e2815">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Wednesday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">November</tspan>     <tspan fill="#3e2815">│</tspan></text>
     <text x="20" y="279"><tspan fill="#3e2815">└────────────────────────────────────────────────┘</tspan></text>
   </g>
 
